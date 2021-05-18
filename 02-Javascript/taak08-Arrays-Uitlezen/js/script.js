@@ -11,6 +11,13 @@ topFilms = [
     "Lawrence of Arabia"
 ];
 
+let persoon = {
+    
+    favoriete film: prompt("Wat is je favoriete film?"),
+}
+
+console.log("persoon");
+
 document.querySelector(".film1-ranking").innerHTML = 1;
 document.querySelector(".film1-naam").innerHTML = topFilms[0];
 document.querySelector(".film2-ranking").innerHTML = 2;
@@ -32,4 +39,52 @@ document.querySelector(".film9-naam").innerHTML = topFilms[8];
 document.querySelector(".film10-ranking").innerHTML = 10;
 document.querySelector(".film10-naam").innerHTML = topFilms[9];
 
+if(persoon.topFilms = 0){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
 
+if(persoon.topFilms = 1){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 2){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 3){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 4){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 5){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 6){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 7){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 8){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
+
+if(persoon.topFilms = 9){
+    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'blue'
+}
